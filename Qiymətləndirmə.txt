@@ -1,0 +1,26 @@
+
+Start
+
+Input  0<= Score <=100
+
+If  Score <=91 
+    then ( Check next condition)
+    Else print A
+
+If  Score <=81 
+    then ( Check next condition)
+    Else print B
+
+If  Score <=71 
+    then ( Check next condition)
+    Else print C
+
+If  Score <=61 
+    then ( Check next condition)
+    Else print D
+
+If  Score <=51 
+    then (print F kəsildiniz )
+    Else print E
+
+End!
